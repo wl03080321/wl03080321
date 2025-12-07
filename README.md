@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+我是吳冠霖，目前就讀台灣科技大學人工智慧研究所碩士生，主要研究為大型語言模型應用方面，努力成為軟體工程師。
+
+當想做一點專案的時候，就會進行更新。
+
 <!--
 **wl03080321/wl03080321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
